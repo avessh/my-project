@@ -1,0 +1,30 @@
+h1 {
+
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+#form-sec {
+
+    margin-right: 20%;
+    padding-left: 20%;
+    padding-top: 5%;
+    /* padding-top: 20%; */
+}
+
+#anima {
+
+    width: 100%;
+   position: relative;
+   bottom: 20%;
+   right: 10%;
+  
+
+}
+
+.btn {
+
+    width: 50%;
+ 
+}
+ 
