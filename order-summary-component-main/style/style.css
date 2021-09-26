@@ -1,0 +1,83 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body
+{
+   background-color: rgb(217 , 224 , 253); 
+    background-image: url("/Users/aveshsingh/Desktop/20210117121452_IMG_8544-01.jpeg");
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+}
+
+.container 
+{
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 10px;
+    height:70vh;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container .hero
+{
+    width: 100%;
+     border-top-left-radius : 8px ;
+     border-top-right-radius: 8px;
+   
+   
+}
+
+.container h1
+{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+.container p
+{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: gray;
+    padding-bottom: 10px;
+}
+
+.container .plan
+{
+    background-color: rgb(248 , 248 , 253);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding:20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container .payment
+{
+    /* margin-top: 15px; */
+    border-radius: 8px;
+    border: none;
+    color: white;
+    background-color: rgb(116, 108, 233);
+    margin-bottom: 15px;
+    padding:8px;
+    margin-left: 30px;
+    margin-right: 30px;
+    box-shadow: gray;
+    sha
+}
