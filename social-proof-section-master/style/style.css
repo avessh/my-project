@@ -1,0 +1,145 @@
+.attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+
+  *
+  {
+      margin: 0;
+      padding:0 ;
+  }
+
+  body
+  {
+    font-family: 'Spartan', sans-serif;
+    font-weight:  700;
+  }
+
+  body h1
+  {
+    margin-left: 100px;
+    font-size: 6vh;
+    color: rgb(76,34,78);
+    
+  }
+
+   h1#first-head
+  {
+    margin-top: 100px;
+  }
+
+  p#main-para
+  {
+    padding-top: 10px;
+    margin-left: 100px;
+    color: grey;
+  }
+
+  .reviews
+  {
+    
+    position:absolute;
+    top:100px;
+    right:220px;
+    background-color: rgb(246,242,247);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border-radius: 8px;
+   
+  }
+  .report
+  {
+    position:absolute;
+    top:160px;
+    right:160px;
+    background-color: rgb(246,242,247);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border-radius: 8px;
+  }
+  .best
+  {
+    position:absolute;
+    top:220px;
+    right:100px;
+    background-color: rgb(246,242,247);
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    border-radius: 8px;
+  }
+
+  .star
+  {
+    width: 15px;
+    padding-right: 5px;
+
+  }
+
+  .intro
+  {
+    float: left;
+    width: 245px;
+    background-color: rgb(75,34,78);
+    color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  h4{
+    color: rgb(153,94,141);
+    padding-left: 40px;
+  }
+  
+  .intro2
+  {
+    
+    float: left;
+    width: 245px;
+    background-color: rgb(75,34,78);
+    color: white;
+    margin-left: 150px;
+    margin-top: 70px;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  .intro3
+  {
+    float: right;
+   
+    width: 245px;
+    background-color: rgb(75,34,78);
+    color: white;
+    margin-left: 100px;
+    margin-top: 90px;
+    border-radius: 5px;
+    padding: 20px;
+    margin-right: 100px;
+   
+  }
+
+  .person
+  {
+    border-radius: 100%;
+    width: 25px;
+    padding-left: 0;
+    position: relative;
+    right: 20px;
+    
+  }
+  h3
+  {
+    padding-left: 40px;
+    
+  }
